@@ -18,4 +18,10 @@ void main(){
   print("Full name is $firstName $lastName");
 }
 
+
+
+output:
+<img width="1366" height="768" alt="output_1" src="https://github.com/user-attachments/assets/b581d50d-128d-4fa0-ba47-0c369458ba41" />
+
+
   
